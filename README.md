@@ -12,4 +12,6 @@ How to Use
 3. Open the file in any text editor 
 
 To run the program:
-'''bash yooooo.py'''
+```bash yooooo.py```
+
+
